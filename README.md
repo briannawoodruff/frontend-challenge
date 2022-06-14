@@ -28,4 +28,4 @@ Please note that an ideal solution should not take more an hour to complete. If 
 
 ## Submitting the challenge
 
-When you have completed the challenge and are ready to submit, please create a pull request.
+When you have completed the challenge and are ready to submit, please create a pull request to main.
