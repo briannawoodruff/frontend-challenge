@@ -18,7 +18,7 @@ Please note that this is a simple challenge meant to indicate simple technical g
 
 ## Getting started
 
-To setup the repository for this challenge, you will simply need to create a fork
+To setup the repository for this challenge, you will simply need to create a new branch and begin!
 
 ### Setting up the Environment
 
