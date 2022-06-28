@@ -32,7 +32,7 @@ Finally, we would like you to create an input that filters the displayed users b
 In this readme, would like you to roughly explain what React is doing under the box of `<Challenge />` in `/components/Challenge.jsx`. Note that you need not explain anything in the context of NextJs and can just assume a plain React app.
 
 ## Answer:
-Challenge.jsx gets sent a prop of data from the randomuser API that is saved in a useState. This useState is mapped over and modified with filter when the user's record gets deleted or a record gets added. Conditional statements are used with the useState toggle to toggle between a grid of users and a table of users. When a record gets added, a new API call is made to retrieve 1 random user and is pushed into the users useState. For that addition to append to the page without error, an index variable is used to indicate a state change happened so the component is rendered.
+Challenge.jsx gets sent a prop of data from the randomuser API that is saved in a useState. This useState is mapped over and modified with filter when the user's record gets deleted or a record gets added. Conditional statements are used with the useState toggle to toggle between a grid of users and a table of users. When a record gets added, a new API call is made to retrieve 1 random user and is pushed into the users useState. For that addition to append to the page without error, an index variable is used to indicate a state change happened so the component is rendered. All tests passed.
 
 ### Bonus
 
